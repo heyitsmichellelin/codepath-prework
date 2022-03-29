@@ -39,11 +39,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](winning_game.gif) / ![](winning_game.gif)
-![]https://1drv.ms/u/s!Am_VrU1IuqxRgZMaaOlEgHKXTbljyg?e=oCr2GD
-![]https://1drv.ms/u/s!Am_VrU1IuqxRgZMb2Onrdk3cBkjrXw?e=jC7Ino
-![]https://1drv.ms/u/s!Am_VrU1IuqxRgZMcFtQwEb5jKDjBrg?e=5KzIgT
-![]https://1drv.ms/u/s!Am_VrU1IuqxRgZMdXA_oydY4fY7Dww?e=dhPUZQ
+![](winning_game.gif)
+![](losing_game.gif)
+![](start_stop.gif)
+![](stop_game.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
